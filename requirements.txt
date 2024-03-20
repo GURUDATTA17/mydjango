@@ -26,6 +26,7 @@ Flask-MySQLdb==2.0.0
 fonttools==4.49.0
 fsspec==2024.2.0
 gradio==4.19.2
+gunicorn
 gradio_client==0.10.1
 h11==0.14.0
 html5lib==1.1
